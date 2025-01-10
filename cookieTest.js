@@ -1,6 +1,2 @@
 document.cookie = "test1=lol";
-document.cookie = "test2=lol2; domain=illoy-scizceneghposter.github.io";
-(function() {
-  var secret = "supersecretAPIkey";
-  window.globalFunction(secret);
-})();
+document.cookie = "test2=lol2; Domain=illoy-scizceneghposter.github.io";
